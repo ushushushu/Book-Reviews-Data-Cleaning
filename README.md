@@ -5,4 +5,5 @@ The files within this repository are incomplete, since the other files are too l
 
 If you wish to see the complete files, kindly refer to this link: https://drive.google.com/drive/folders/1-eqgJlbMkbzl9Opgig90a5mbysJw48hW?usp=sharing
 
+The datasource files were downloaded from Maven Analytics: https://mavenanalytics.io/data-playground/goodreads-book-reviews
 
