@@ -1,11 +1,11 @@
-## Goodreads book reviews: A data cleaning project
-A data cleaning project on Goodreads book reviews using PostgreSQL, while pandas was used in converting csv files to Excel files.
+# Goodreads book reviews: A data cleaning project
 
-The files within this repository are incomplete, since the other files are too large for GitHub. This repository contains only the SQL files used for data cleaning. If you wish to see the query results using my script, kindly run the "works_data cleaning.sql" file first before the "reviews_data cleaning.sql" file. 
+### ✏️ Project Brief
+A data cleaning project on Goodreads book reviews using PostgreSQL, while Python (pandas) was used in converting csv files to Excel files.
 
-If you wish to see the complete files, kindly refer to this link: 
-https://drive.google.com/drive/folders/1-eqgJlbMkbzl9Opgig90a5mbysJw48hW?usp=sharing
+The files within this repository are **INCOMPLETE,** since the other files are too large for GitHub. This repository contains only the SQL files used for data cleaning. If you wish to see the query results using my script, kindly run the works SQL file before the reviews SQL file. 
 
-The datasource files were downloaded from Maven Analytics: 
-https://mavenanalytics.io/data-playground/goodreads-book-reviews
+If you wish to see the complete files, kindly refer to this [link](https://drive.google.com/drive/folders/1-eqgJlbMkbzl9Opgig90a5mbysJw48hW?usp=sharing)
+
+The datasource files were downloaded from Maven Analytics, which could be found [here](https://mavenanalytics.io/data-playground/goodreads-book-reviews)
 
