@@ -1,6 +1,6 @@
 # Goodreads book reviews: A data cleaning project
 
-### ✏️ Project Brief
+### 📌 Important Notes
 A data cleaning project on Goodreads book reviews using PostgreSQL, while Python (pandas) was used in converting csv files to Excel files.
 
 The files within this repository are **INCOMPLETE,** since the other files are too large for GitHub. This repository contains only the SQL files used for data cleaning. If you wish to see the query results using my script, kindly run the works SQL file before the reviews SQL file. 
